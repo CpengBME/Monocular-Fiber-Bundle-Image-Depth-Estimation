@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore")
 import cv2
 import numpy as np
 
-# Structural F-score computing function
+# Structural F-score computing function.
 from Structural_F_score import compute_f_score
 
 # data path
