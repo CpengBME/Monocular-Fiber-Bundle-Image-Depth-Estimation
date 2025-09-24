@@ -1,1 +1,0 @@
-tensorboard --logdir=C://Python_Program//Self_Supervised//Unet//logs
