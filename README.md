@@ -1,5 +1,5 @@
 # Monocular-Fiber-Bundle-Image-Depth-Estimation
-This work present a depth estimation network and pipeline for monocular fiber-bundle endoscopic images, which are difficult to make reliable depth recovery due to low resolution, low contrast, related artifacts ( like honeycomb artifacts ) and the absence of ground-truth.
+This work present a depth estimation network and pipeline for monocular fiber-bundle endoscopic images, which are difficult to make reliable depth recovery due to low resolution, low contrast, related artifacts ( like honeycomb artifacts ) and the absence of ground-truth.In our pipeline, we are able to recover the accurate depth map of fiber-bundle images without being affected by the artifacts mentioned above.
 
 <img src="https://github.com/CpengBME/Monocular-Fiber-Bundle-Image-Depth-Estimation/blob/main/figures/Figure2.png">
 
